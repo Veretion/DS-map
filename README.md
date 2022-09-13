@@ -1,3 +1,4 @@
 # DS-map
 Data Science Learning Map
-![image](https://user-images.githubusercontent.com/48298825/189859759-66e3a055-e75c-40aa-b300-f2f72f67d538.png)
+
+![Data Sciense](https://user-images.githubusercontent.com/48298825/189860233-e28117df-5915-48bd-a070-1c9a31bbae23.png)
